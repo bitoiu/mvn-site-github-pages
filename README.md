@@ -19,9 +19,7 @@ This is a *template" project to integrate [GitHub Pages](https://help.github.com
 
 ```
 
-6. Run `mvn site` and see the content being uploaded to your project's `gh-pages` branch.
-
-Expected sample output:
+Run `mvn site` and see the content being uploaded to your project's `gh-pages` branch. Expected sample output:
 
 ```
 > mvn site       
