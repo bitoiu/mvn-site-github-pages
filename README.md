@@ -66,7 +66,7 @@ Run `mvn site` and see the content being uploaded to your project's `gh-pages` b
 
 If you have any issues check [Maven Site's GitHub Plugin docs](https://github.github.com/maven-plugins/site-plugin/project.html#).
 
-## Found a bug in your template
+## Found a bug in this template
 
 Please open a PR with the changes and I'll take a look as soon as possible.
 
