@@ -1,6 +1,6 @@
 # mvn-site-github-pages
 
-This is a *template" project to integrate [GitHub Pages](https://help.github.com/articles/what-is-github-pages/) with [Maven Site](https://github.github.com/maven-plugins/site-plugin/project.html#)
+This is a *template* project to integrate [GitHub Pages](https://help.github.com/articles/what-is-github-pages/) with [Maven Site](https://github.github.com/maven-plugins/site-plugin/project.html#)
 
 ## Usage
 
