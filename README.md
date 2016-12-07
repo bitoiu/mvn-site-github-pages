@@ -5,9 +5,9 @@ This is a *template* project to integrate [GitHub Pages](https://help.github.com
 ## Usage
 
 1. Clone this repository
-2. Create a new home for the repository in GitHub.com or GitHub Enterprise
-3. Change the `pom.xml` section to point to your new repository location (2 sections)
-4. Generate a personal access token with `user` and `repo` permissions
+2. Create a new home for the cloned repository in GitHub.com or GitHub Enterprise and push it upstream
+3. Change the highlighted `pom.xml` sections to point to your new repository location (2 sections)
+4. Generate a [personal access token](https://help.github.com/articles/creating-an-access-token-for-command-line-use/) with `user` and `repo` permissions
 5. Fill in the `server` section in your `~/.m2/settings` with GitHub username and token:
 
 ```
