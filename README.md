@@ -62,6 +62,10 @@ Run `mvn site` and see the content being uploaded to your project's `gh-pages` b
 [INFO] ------------------------------------------------------------------------
 ```
 
+## Usage in a CI Server
+
+If you're trying to automate the site generation and deployment in CI make sure access to the build agents' `.m2/settings.xml` is well protected. For additional security you might want to look at [Maven's password encryption](https://maven.apache.org/guides/mini/guide-encryption.html).
+
 ## Help needed
 
 If you have any issues check [Maven Site's GitHub Plugin docs](https://github.github.com/maven-plugins/site-plugin/project.html#).
