@@ -4,7 +4,7 @@ This is a *template* project to integrate [GitHub Pages](https://help.github.com
 
 ## Usage
 
-1. Clone the repository
+1. Clone this repository
 2. Create a new home for the repository in GitHub.com or GitHub Enterprise
 3. Change the `pom.xml` section to point to your new repository location (2 sections)
 4. Generate a personal access token with `user` and `repo` permissions
